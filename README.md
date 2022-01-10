@@ -1,2 +1,0 @@
-# firstrepo
-read me file
